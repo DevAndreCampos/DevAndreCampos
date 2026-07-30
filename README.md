@@ -1,12 +1,12 @@
 # Olá, eu sou André Campos 👋
 
-🗄️ Desenvolvedor de Banco de Dados | SQL | PostgreSQL | MySQL | Oracle
+🗄️ Banco de Dados | SQL | PostgreSQL | MySQL | Oracle | Modelagem Relacional
 
 🎓 Formado em Tecnologia em Banco de Dados, com conhecimentos em modelagem, desenvolvimento e otimização de bancos de dados relacionais.
 
 Minha formação foi voltada para análise, modelagem e desenvolvimento de soluções envolvendo bancos de dados relacionais, SQL e administração de dados.
 
-Possuo conhecimentos em criação e manutenção de bancos de dados, desenvolvimento de consultas SQL, otimização de consultas e integração com aplicações Web.
+Possuo conhecimentos em criação e manutenção de bancos de dados, desenvolvimento de consultas SQL, otimização de consultas e integração entre aplicações e banco de dados.
 
 ---
 
@@ -65,6 +65,19 @@ Conhecimentos complementares para desenvolvimento e integração de aplicações
 - Integração entre aplicações e Banco de Dados
 - Git e GitHub
 ---
+
+---
+
+## 🛠️ Ferramentas
+
+- PostgreSQL
+- MySQL
+- Oracle Database
+- pgAdmin
+- SQL Developer
+- Git
+- GitHub
+- Visual Studio Code
 
 ## 🚀 Projetos
 
