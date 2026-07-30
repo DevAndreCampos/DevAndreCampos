@@ -1,8 +1,8 @@
 # Olá, eu sou André Campos 👋
 
-🗄️ 🗄️ Desenvolvedor/Analista de Banco de Dados em formação, com conhecimentos em Desenvolvimento Web.
+🗄️ Desenvolvedor de Banco de Dados | SQL | PostgreSQL | MySQL | Oracle
 
-🎓 Formado em Tecnologia em Banco de Dados.
+🎓 Formado em Tecnologia em Banco de Dados, com conhecimentos em modelagem, desenvolvimento e otimização de bancos de dados relacionais.
 
 Minha formação foi voltada para análise, modelagem e desenvolvimento de soluções envolvendo bancos de dados relacionais, SQL e administração de dados.
 
