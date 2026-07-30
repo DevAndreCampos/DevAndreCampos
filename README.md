@@ -51,15 +51,16 @@ Conhecimentos adquiridos durante a graduação e projetos práticos:
 
 ## 🌐 Desenvolvimento Web
 
-Conhecimentos complementares:
+Conhecimentos complementares para desenvolvimento e integração de aplicações:
 
 - HTML5
 - CSS3
 - JavaScript
-- Responsividade
+- Design Responsivo
 - Manipulação do DOM
+- Estruturação de páginas Web
+- Integração entre aplicações e Banco de Dados
 - Git e GitHub
-
 ---
 
 ## 🚀 Projetos
