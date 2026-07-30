@@ -65,19 +65,27 @@ Conhecimentos complementares para desenvolvimento e integração de aplicações
 
 ## 🚀 Projetos
 
-### Sistema Gerenciamento de Pedidos
+### 🗄️ Sistema Gerenciamento de Pedidos
 
-Projeto desenvolvido utilizando PostgreSQL:
+Projeto de Banco de Dados desenvolvido utilizando PostgreSQL.
 
-- Modelagem do banco;
-- Criação de tabelas;
-- Relacionamentos;
+Principais conceitos aplicados:
+
+- Modelagem Relacional;
+- Modelo Entidade-Relacionamento (DER);
+- Normalização de dados;
+- Criação e relacionamento de tabelas;
+- Chaves Primárias (PK) e Estrangeiras (FK);
 - Constraints;
 - Consultas SQL;
 - Views;
 - Functions;
 - Triggers;
-- Procedures.
+- Procedures;
+- Índices e organização de scripts SQL.
+
+Objetivo do projeto:
+Desenvolver uma estrutura de banco de dados para gerenciamento de clientes, produtos e pedidos, aplicando boas práticas de modelagem e programação SQL.
 
 ---
 
