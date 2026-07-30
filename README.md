@@ -91,14 +91,18 @@ Desenvolver uma estrutura de banco de dados para gerenciamento de clientes, prod
 
 ## 📚 Formação
 
-🎓 Graduação em Banco de Dados
+🎓 Tecnologia em Banco de Dados
 
-Conhecimentos desenvolvidos:
+Conhecimentos desenvolvidos durante a graduação:
 
 - Arquitetura de Banco de Dados;
-- Administração de Dados;
+- Administração e Gerenciamento de Dados;
+- Modelagem Entidade-Relacionamento (DER);
+- Normalização de Dados;
+- Linguagem SQL;
+- Programação em Banco de Dados;
 - Segurança da Informação;
 - Engenharia de Software;
 - Modelagem de Sistemas;
-- Linguagem SQL;
-- Otimização e desempenho.
+- Otimização e Tuning de Banco de Dados;
+- Análise de desempenho de consultas SQL.
