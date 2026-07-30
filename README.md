@@ -10,16 +10,6 @@ Possuo conhecimentos em criação e manutenção de bancos de dados, desenvolvim
 
 ---
 
----
-
----
-
-## 📊 Estatísticas do GitHub
-
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DevAndreCampos&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DevAndreCampos&layout=compact&theme=tokyonight)
-
 
 ## 🗄️ Banco de Dados
 
