@@ -1,25 +1,95 @@
-## Bem-vindo(a) ao perfil do Andre DEV 😁
+# Olá, eu sou André Campos 👋
 
- <div>
-   <a href="https://github.com/DevAndreCampos">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevAndreCampos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevAndreCampos&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
-    
-    
-<div style="display: inline_block"><br>
- 
- <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />        
- <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
- <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
+🗄️ Profissional de Banco de Dados com conhecimentos em Desenvolvimento Web.
 
-</div>
- 
-<br>
- 
-### Perfil do Linkedin!
- 
-<div> 
- <a href="https://instagram.com/a_campooss" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/andredev27" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+🎓 Formado em Tecnologia em Banco de Dados.
+
+Minha formação foi voltada para análise, modelagem e desenvolvimento de soluções envolvendo bancos de dados relacionais, SQL e administração de dados.
+
+Possuo conhecimentos em criação e manutenção de bancos de dados, desenvolvimento de consultas SQL, otimização de consultas e integração com aplicações Web.
+
+---
+
+## 🗄️ Banco de Dados
+
+Conhecimentos adquiridos durante a graduação e projetos práticos:
+
+### SGBDs
+
+- PostgreSQL
+- MySQL
+- Oracle Database
+
+### SQL
+
+- Criação e manipulação de tabelas
+- DDL, DML e DQL
+- Consultas SQL
+- Joins
+- Subconsultas
+- Agregações
+- Views
+- Functions
+- Procedures
+- Triggers
+- Constraints
+- Chaves Primárias (PK)
+- Chaves Estrangeiras (FK)
+- Normalização de Dados
+- Modelagem Relacional
+- Modelo Entidade-Relacionamento (DER)
+
+### Banco de Dados Avançado
+
+- Índices
+- Análise de desempenho de consultas
+- Query Optimization
+- Tuning de Banco de Dados
+- Melhorias de performance SQL
+
+---
+
+## 🌐 Desenvolvimento Web
+
+Conhecimentos complementares:
+
+- HTML5
+- CSS3
+- JavaScript
+- Responsividade
+- Manipulação do DOM
+- Git e GitHub
+
+---
+
+## 🚀 Projetos
+
+### Sistema Gerenciamento de Pedidos
+
+Projeto desenvolvido utilizando PostgreSQL:
+
+- Modelagem do banco;
+- Criação de tabelas;
+- Relacionamentos;
+- Constraints;
+- Consultas SQL;
+- Views;
+- Functions;
+- Triggers;
+- Procedures.
+
+---
+
+## 📚 Formação
+
+🎓 Graduação em Banco de Dados
+
+Conhecimentos desenvolvidos:
+
+- Arquitetura de Banco de Dados;
+- Administração de Dados;
+- Segurança da Informação;
+- Engenharia de Software;
+- Modelagem de Sistemas;
+- Linguagem SQL;
+- Otimização e desempenho.
