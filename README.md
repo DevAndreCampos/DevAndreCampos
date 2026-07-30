@@ -1,6 +1,6 @@
 # Olá, eu sou André Campos 👋
 
-🗄️ Profissional de Banco de Dados com conhecimentos em Desenvolvimento Web.
+🗄️ 🗄️ Desenvolvedor/Analista de Banco de Dados em formação, com conhecimentos em Desenvolvimento Web.
 
 🎓 Formado em Tecnologia em Banco de Dados.
 
