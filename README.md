@@ -20,32 +20,35 @@ Conhecimentos adquiridos durante a graduação e projetos práticos:
 - MySQL
 - Oracle Database
 
-### SQL
+### Linguagem SQL
 
-- Criação e manipulação de tabelas
-- DDL, DML e DQL
-- Consultas SQL
+- DDL (Data Definition Language)
+- DML (Data Manipulation Language)
+- DQL (Data Query Language)
+- Consultas SQL avançadas
 - Joins
 - Subconsultas
-- Agregações
+- Funções de agregação
 - Views
-- Functions
-- Procedures
-- Triggers
+
+### Modelagem e Desenvolvimento
+
+- Modelo Entidade-Relacionamento (DER)
+- Modelagem Relacional
+- Normalização de Dados
+- Criação de tabelas e relacionamentos
 - Constraints
 - Chaves Primárias (PK)
 - Chaves Estrangeiras (FK)
-- Normalização de Dados
-- Modelagem Relacional
-- Modelo Entidade-Relacionamento (DER)
-
-### Banco de Dados Avançado
-
 - Índices
-- Análise de desempenho de consultas
-- Query Optimization
-- Tuning de Banco de Dados
-- Melhorias de performance SQL
+
+### Programação em Banco de Dados
+
+- Functions
+- Procedures
+- Triggers
+- Otimização de consultas
+- Tuning e análise de desempenho
 
 ---
 
