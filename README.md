@@ -65,14 +65,23 @@ Arquitetura de banco de dados, administração e gerenciamento de dados, modelag
 ### 📊 Estatísticas do GitHub
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevAndreCampos&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevAndreCampos&hide_border=true" alt="GitHub Streak" height="165"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=DevAndreCampos&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" height="165"/>
+  <img src="https://streak-stats.demolab.com/?user=DevAndreCampos&hide_border=true" alt="GitHub Streak" height="165"/>
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevAndreCampos&layout=compact&hide_border=true" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DevAndreCampos&layout=compact&hide_border=true" alt="Top Languages" height="165"/>
 </p>
 
+> ⚠️ O serviço público github-readme-stats.vercel.app costuma ficar fora do ar por sobrecarga. Se os cards acima também pararem de carregar, veja as opções abaixo.
+
 ---
+
+<!--
+Alternativa caso os cards de estatísticas parem de carregar:
+Configure a GitHub Action "github-readme-stats" no repo DevAndreCampos/DevAndreCampos
+para gerar as imagens localmente e commitá-las (não depende de serviço externo).
+Guia: https://github.com/anuraghazra/github-readme-stats#-generate-images-locally-using-a-github-action
+-->
 
 📫 Aberto a oportunidades na área de dados. Entre em contato!
